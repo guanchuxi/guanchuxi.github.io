@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://gavin.github.io</id>
+    <id>https://guanchuxi.github.io</id>
     <title>亲豆豆</title>
-    <updated>2021-02-24T05:49:29.147Z</updated>
+    <updated>2021-02-24T06:06:39.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://gavin.github.io"/>
-    <link rel="self" href="https://gavin.github.io/atom.xml"/>
+    <link rel="alternate" href="https://guanchuxi.github.io"/>
+    <link rel="self" href="https://guanchuxi.github.io/atom.xml"/>
     <subtitle>记录豆豆成长的点点滴滴</subtitle>
-    <logo>https://gavin.github.io/images/avatar.png</logo>
-    <icon>https://gavin.github.io/favicon.ico</icon>
+    <logo>https://guanchuxi.github.io/images/avatar.png</logo>
+    <icon>https://guanchuxi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 亲豆豆</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://gavin.github.io/post/hello-gridea/</id>
-        <link href="https://gavin.github.io/post/hello-gridea/">
+        <id>https://guanchuxi.github.io/post/hello-gridea/</id>
+        <link href="https://guanchuxi.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
